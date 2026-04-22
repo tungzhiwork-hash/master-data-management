@@ -1,0 +1,6 @@
+{
+  "name": "Master Data Management",
+  "description": "A centralized system for managing legal entity information, authorized signatories, bank accounts, and compliance audit trails for a corporate group.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
